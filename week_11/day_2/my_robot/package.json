@@ -1,0 +1,16 @@
+{
+  "name": "my_robot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha robot_spec.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "malta": "^3.5.1",
+    "mocha": "^3.2.0"
+  }
+}

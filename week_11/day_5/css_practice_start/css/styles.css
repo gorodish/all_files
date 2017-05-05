@@ -1,0 +1,49 @@
+body {
+  font-family: 'Arsenal', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Pacifico', cursive;
+}
+
+.flex {
+  display: flex;
+  flex-direction: row;
+}
+
+.flex-50 {
+  width: 50%;
+  background-color: lightgrey;
+}
+
+.alternate {
+  background-color: white;
+}
+
+img {
+  width: 320px;
+  height: auto;
+  border-radius: 50%;
+}
+
+table, td, th {
+  border: 1px solid blue;
+}
+
+th, td {
+  padding: 15px;
+  text-align: center;
+}
+
+table {
+  width: 100%;
+  height: auto;
+}
+
+th {
+  font-weight: bold;
+}
+
+table tr:nth-child(even) {
+  background-color: grey;
+}

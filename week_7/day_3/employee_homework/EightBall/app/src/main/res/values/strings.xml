@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Father Ted Ball</string>
+    <string name="developer_name">Murray</string>
+    <string name="question">Enter your question</string>
+    <string name="shake">Ask Father Jack</string>
+    <string name="answer_activity_title">Father Jack says...</string>
+    <string name="go_to_website">Go to website</string>
+</resources>
